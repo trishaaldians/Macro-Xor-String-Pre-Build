@@ -18,8 +18,8 @@ How to use:
 ```
 
 Example:
-Just Add XOR("")
+1. Just Add XOR("")
 ```C++
-1. printf(XOR("my string"));
-2. After Build -> printf(/*my string*/XorStr<0x29,10,0xE184BE23>("\x44\x53\x0B\x5F\x59\x5C\x46\x5E\x56"+0xE184BE23).decode);
+2. printf(XOR("my string"));
+3. After Build -> printf(/*my string*/XorStr<0x29,10,0xE184BE23>("\x44\x53\x0B\x5F\x59\x5C\x46\x5E\x56"+0xE184BE23).decode);
 ```
