@@ -1,6 +1,9 @@
 # Macro-Xor-String-Pre-Build
 Compile time string Xor for visual studio 2010-2019 (not sure).
 
+# Share
+https://www.unknowncheats.me/forum/c-and-c-/449137-macro-xor-string-pre-build-event.html
+
 # Original Post by
 https://github.com/stevemk14ebr/VS2013-Compile-Time-XOR
 
