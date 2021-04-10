@@ -5,7 +5,8 @@ Compile time string Xor for visual studio 2010-2019 (not sure).
 https://www.unknowncheats.me/forum/c-and-c-/449137-macro-xor-string-pre-build-event.html
 
 # Original Post by
-https://github.com/stevemk14ebr/VS2013-Compile-Time-XOR
+1. https://github.com/stevemk14ebr/VS2013-Compile-Time-XOR
+2. https://www.unknowncheats.me/forum/c-and-c-/131623-compile-time-string-encryption-visual-studio-2010-2012-a.html
 
 ---------------------------
 
