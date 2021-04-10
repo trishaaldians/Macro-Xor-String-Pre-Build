@@ -14,7 +14,7 @@ int main(int argc, char * args[])
 	std::string Directory = CurrentPath;
 	std::string Filter = Directory + "\\*.*";
 
-	printf("Current Path: %s", Directory);
+	printf("Current Path: %s\n", Directory);
 
 	WIN32_FIND_DATA FindAllFiles;
 	HANDLE hFindFiles = FindFirstFile(Filter.c_str(), &FindAllFiles);
