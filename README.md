@@ -11,7 +11,8 @@ How to setup:
 2. Add the Command Line: -> call "$(SolutionDir)\XorStr.exe"
 
 How to use:
-Add #include XorStr.h to your project https://github.com/trishaaldians/Macro-Xor-String-Pre-Build/blob/main/Common/XorStr/XorStr.h
+1. Add #include XorStr.h to your project
+2. https://github.com/trishaaldians/Macro-Xor-String-Pre-Build/blob/main/Common/XorStr/XorStr.h
 ```C++
 #include "../Common/XorStr/XorStr.h"
 ```
